@@ -1,7 +1,7 @@
 /* ESP32QEP
  *
  * AUTHOR: Raphael Rätz
- * EMAIL: raphael.raetz@artorg.unibe.ch
+ * EMAIL: raphael.raetz@hotmail.com
  */
 
 
