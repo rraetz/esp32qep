@@ -24,9 +24,7 @@
 
 // Includes
 #include <stdint.h>
-#include <Arduino.h>
 #include "freertos/queue.h"
-#include "freertos/task.h"
 
 
 // Typedef

@@ -1,4 +1,3 @@
-#include <Arduino.h>
 #include "esp32qep.h"
 
 // Pins
@@ -27,5 +26,3 @@ void loop()
   }
   delay(100);
 }
-
-

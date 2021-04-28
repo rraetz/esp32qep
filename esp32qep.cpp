@@ -7,6 +7,8 @@
 
 // Includes
 #include "esp32qep.h"
+#include <Arduino.h>
+#include "freertos/task.h"
 
 
 // Global (static) variable
