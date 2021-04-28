@@ -23,6 +23,7 @@
 
 
 // Includes
+#include <Arduino.h>
 #include <stdint.h>
 #include "freertos/queue.h"
 
